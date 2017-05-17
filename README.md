@@ -3,5 +3,6 @@
 
 Quick setup: 
 1. clone https://github.com/madHEYsia/Muzk.git
-2. run npm start. see effect on http://localhost:3000/
-3. use npm run generate to create new route, containers, etc.
+2. run npm install
+3. run npm start. (see effect on http://localhost:3000/)
+4. use npm run generate to create new route, containers, etc.
