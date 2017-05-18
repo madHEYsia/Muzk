@@ -1,0 +1,8 @@
+const searchStyle = {
+  margin: 50,
+  padding: 10,
+  display: 'flex',
+  fontSize: 24
+};
+
+export default searchStyle;

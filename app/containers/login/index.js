@@ -10,14 +10,13 @@
  */
 
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
-import messages from './messages';
+import SearchBox from 'components/SearchBox'
 
 export default class login extends React.PureComponent { // eslint-disable-line react/prefer-stateless-function
   render() {
     return (
       <h1>
-        <FormattedMessage {...messages.header} />
+          <SearchBox />
       </h1>
     );
   }
