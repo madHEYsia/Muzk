@@ -10,13 +10,12 @@
  */
 
 import React from 'react';
-import SearchBox from 'components/SearchBox'
 
 export default class login extends React.PureComponent { // eslint-disable-line react/prefer-stateless-function
   render() {
     return (
       <h1>
-          <SearchBox />
+        This is login page
       </h1>
     );
   }
